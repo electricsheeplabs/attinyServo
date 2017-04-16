@@ -1,5 +1,5 @@
 # attinyServo
-This code is uploaded to an AVR attiny85 mcu (84 works too) to generate servo control signals based on an analog input. 
+This code is uploaded to an AVR attiny85 mcu (84 works too) to generate servo control signals based on an analog input. I like this concept because you can now easily make a small controller for servos and ESCs, and hide the tiny thing anywhere on your device! 
 
 I learned all I know (not much) from these folks:
 
