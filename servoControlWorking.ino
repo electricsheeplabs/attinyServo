@@ -17,6 +17,18 @@
  * but simple modifications could be made for 16mhz. Configure the updateSP method for desired analog in level adustment and min_ and max_speed for your device.
  * Make sure the servo/ESC has power (5V usually) and is common grounded. Should be ready to rock and embed!
  * 
+ *REFERENCE:
+ *How to program the AVR attiny
+ *http://www.kobakant.at/DIY/?p=3742
+ *http://highlowtech.org/?p=1695
+ *
+ *AVR stuff (register banging and timers)
+ *https://maxembedded.wordpress.com/2011/06/22/introduction-to-avr-timers/*
+ *
+ *AVR ISR dox
+ *http://www.nongnu.org/avr-libc/user-manual/group__avr__interrupts.html
+ *http://www.avrfreaks.net/forum/tut-newbies-guide-avr-interrupts?page=all
+ * 
  */
 
 
