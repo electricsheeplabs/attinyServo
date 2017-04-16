@@ -12,3 +12,4 @@ https://maxembedded.wordpress.com/2011/06/22/introduction-to-avr-timers/
 
 # AVR ISR dox
 http://www.nongnu.org/avr-libc/user-manual/group__avr__interrupts.html
+http://www.avrfreaks.net/forum/tut-newbies-guide-avr-interrupts?page=all
