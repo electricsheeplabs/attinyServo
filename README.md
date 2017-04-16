@@ -9,3 +9,6 @@ http://highlowtech.org/?p=1695
 
 # AVR stuff (register banging and timers)
 https://maxembedded.wordpress.com/2011/06/22/introduction-to-avr-timers/
+
+# AVR ISR dox
+http://www.nongnu.org/avr-libc/user-manual/group__avr__interrupts.html
