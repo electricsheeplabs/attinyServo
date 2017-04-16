@@ -27,7 +27,7 @@
 #define enable_speed 125
 #define cycles_before_update 12
 #define enable_cycles 200
-#define timer_overflows 10 //this gives desired servo control signal period of about 2 ms
+#define timer_overflows 10 //this gives desired servo control signal period of about 20 ms
 #define smooth_speed 2
 
 volatile uint8_t tot_overflow;
