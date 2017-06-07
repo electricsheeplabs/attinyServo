@@ -6,6 +6,7 @@ I learned all I know (not much) from these folks:
 # How to program the AVR attiny
 http://www.kobakant.at/DIY/?p=3742
 http://highlowtech.org/?p=1695
+http://highlowtech.org/?p=1706
 
 # AVR stuff (register banging and timers)
 https://maxembedded.wordpress.com/2011/06/22/introduction-to-avr-timers/
